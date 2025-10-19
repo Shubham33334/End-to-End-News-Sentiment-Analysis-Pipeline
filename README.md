@@ -48,4 +48,3 @@ BeautifulSoup & Requests: For web scraping.
 * Insights into how sentiment varies over time and across topics or authors.
 * Practical experience in using modern data engineering tools and techniques.
 
-This project is an excellent opportunity to showcase expertise in data engineering, natural language processing, and business intelligence, while solving real-world challenges in media analysis!
