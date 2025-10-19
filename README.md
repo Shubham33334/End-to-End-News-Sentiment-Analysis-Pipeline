@@ -1,4 +1,4 @@
-# Project Idea: Automated News Sentiment Tracker
+Automated News Sentiment Tracker
 
 # Overview:
 
